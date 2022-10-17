@@ -1,6 +1,6 @@
 [package]
 name = "stb_rect_pack_sys"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Torkel Danielsson <torkel@voysys.se>, Niclas Olmenius <niclas@voysys.se>"]
 license = "MIT OR Apache-2.0"
