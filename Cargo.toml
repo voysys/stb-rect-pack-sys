@@ -12,4 +12,4 @@ readme = "README.md"
 
 [build-dependencies]
 cc = "1"
-bindgen = { version = "0.60", default_features = false }
+bindgen = { version = "0.61", default_features = false }

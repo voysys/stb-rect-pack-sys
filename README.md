@@ -1,3 +1,5 @@
-# stb-rect-pack-sys
+# stb_rect_pack_sys
 
-Wrapper over stb-rect-pack
+Low level sys wrapper over [stb-rect-pack](https://github.com/nothings/stb/blob/master/stb_rect_pack.h).
+
+[stb](https://github.com/nothings/stb)
