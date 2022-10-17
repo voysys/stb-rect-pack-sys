@@ -1,10 +1,10 @@
 [package]
 name = "stb_rect_pack_sys"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Torkel Danielsson <torkel@voysys.se>, Niclas Olmenius <niclas@voysys.se>"]
 license = "MIT OR Apache-2.0"
-description = "Wrapper for stb_rect_pack"
+description = "Low level bindgen generated wrapper for stb_rect_pack"
 repository = "https://github.com/voysys/assert_into"
 documentation = "https://docs.rs/assert_into"
 keywords = ["stb_rect_pack", "rect", "pack"]
