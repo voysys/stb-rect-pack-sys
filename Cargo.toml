@@ -1,6 +1,6 @@
 [package]
 name = "stb_rect_pack_sys"
-version = "0.1.5"
+version = "0.2.0"
 edition = "2021"
 authors = ["Torkel Danielsson <torkel@voysys.se>, Niclas Olmenius <niclas@voysys.se>"]
 license = "MIT OR Apache-2.0"
@@ -12,4 +12,4 @@ readme = "README.md"
 
 [build-dependencies]
 cc = "1"
-bindgen = { version = "0.63", default_features = false }
+bindgen = { version = "0.64", default_features = false }
